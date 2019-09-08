@@ -3,7 +3,7 @@ def roll_call_dwarves(dwarf_names)
   dwarf_names.each_with_index{|item, index| puts (index + 1).to_s + item}
 end
 
-def summon_captain_planet# code an argument here
+def summon_captain_planet(planeteer_calls)
   # Your code here
 end
 
