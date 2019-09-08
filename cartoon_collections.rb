@@ -1,6 +1,6 @@
 def roll_call_dwarves(dwarf_names)
   # Your code here
-  p dwarf_names.sort_by{|dwarf| dwarf.length} + /n
+  p dwarf_names.sort_by{|dwarf| dwarf.length}
 end
 roll_call_dwarves(["Doc", "Dopey", "Bashful", "Grumpy"])
 
