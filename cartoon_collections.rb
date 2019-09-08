@@ -1,6 +1,6 @@
 def roll_call_dwarves(dwarf_names)
   # Your code here
-  p dwarf_names.each_with_index{|dwarf| dwarf.length}
+  p dwarf_names.each_with_index{|dwarf, index| p dwarf}
 end
 roll_call_dwarves(["Doc", "Dopey", "Bashful", "Grumpy"])
 
