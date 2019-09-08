@@ -1,6 +1,6 @@
 def roll_call_dwarves(dwarf_names)
   # Your code here
-  p dwarf_names.sort_by{|dwarf| dwarf.length}
+  dwarf_names.sort_by{|dwarf| dwarf.length}
 end
 
 def summon_captain_planet# code an argument here
