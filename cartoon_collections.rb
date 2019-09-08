@@ -8,7 +8,7 @@ def summon_captain_planet(planeteer_calls)
   # Your code here
 end
 
-def long_planeteer_calls(roll_call_dwarves)
+def long_planeteer_calls(calls)
   # Your code here
 end
 
